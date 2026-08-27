@@ -1,4 +1,10 @@
-## Hi! I am [Yiu-Fai (Frankie) CHEUNG 張耀輝](https://iafcy.github.io/). 👋🏻
+<h1 align="center">
+        <samp>&gt; Hi! I am
+                <b><a target="_blank" href="https://iafcy.github.io/">Yiu-Fai (Frankie) CHEUNG</a> 👋🏻</b>
+        </samp>
+</h1>
+
+<img align="right" src="https://iafcy.github.io/favicon.ico?v=2" height=225 />
 
 I am a first-year M.Phil. student in [Department of Computer Science and Engineering](https://www.cse.cuhk.edu.hk/) at the Chinese University of Hong Kong ([CUHK](https://www.cuhk.edu.hk/english/index.html)), advised by Prof. [Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/).
 
